@@ -9,7 +9,7 @@ Dependencies : pprint, pprint, IPython
 - Download Python 3.7.9 from this [link]( https://www.python.org/downloads/).
 - Follow this [guide](https://pandas.pydata.org/pandas-docs/stable/getting_started/install.html) to install pandas.
 - Follow this [guide](https://jupyter.org/install) to install Jupyter notebook.
-- Download my notebook from [here](https://github.com/ramakrishnabollisetty007/Log_parsing/blob/master/Submission.ipynb) and leverage it's features or even better [clone this repository](https://github.com/ramakrishnabollisetty007/Log_parsing.git)
+- Download my notebook from [here](https://github.com/ramakrishnabollisetty007/Log_parsing/blob/master/Submission.ipynb) and leverage it's features or even better [clone this repository](https://github.com/ramakrishnabollisetty007/Log_parsing.git).
 
 
 ## Implementation
