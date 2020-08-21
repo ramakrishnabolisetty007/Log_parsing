@@ -55,7 +55,7 @@ Dependencies : pprint, pprint, IPython
 - User to enter the path to read the file from.
 - To make this utility a configuration based utility (No code utility).
 - Visualisations such as graphs,scatter plots can be added to declutter the statistics.
-- Since there is no circular reference, Garbage collection can be diabled to improve memory consumption.
+- Since there is no circular reference of memory, Garbage collection can be diabled to improve memory consumption for cases where we are dealing with huge data.
 
 
 
