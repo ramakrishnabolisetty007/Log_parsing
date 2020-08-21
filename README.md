@@ -19,13 +19,22 @@ Dependencies : pprint, pprint, IPython
 - Converted plain file into CSV using regex.
 - Used random buckets of 65,000 line items are used to test the utility. 
 
+## Features
+
+- Top 10 most requested resources
+- Percentage of Successful and Unsuccessful requests
+- Top 10 Unsuccessful requests
+- Top 10 hosts interacting with the system
+- Top 10 hosts with their top page hits
+- Percentile of requests
 
 ## Merits of the current version
 
 - Single I/O operation.
 - No primitive looping techniques(for,while etc.) used.
 - Handles edge cases in user inputs through command line interface.
-- Shows percentile of requests for each request type
+
+
 
 ## Tests
 ![User options](https://github.com/ramakrishnabollisetty007/Log_parsing/blob/master/Tests/Options%20for%20users.PNG)
