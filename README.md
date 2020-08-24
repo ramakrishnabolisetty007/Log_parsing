@@ -27,6 +27,7 @@ Dependencies : pprint, pprint, IPython
 - Top 10 hosts interacting with the system
 - Top 10 hosts with their top page hits
 - Percentile of requests
+- Median value for the Response size (in bytes)
 
 ## Merits of the current version
 
@@ -47,6 +48,7 @@ Dependencies : pprint, pprint, IPython
 ![Top 10 hosts interacting with the system](https://github.com/ramakrishnabollisetty007/Log_parsing/blob/master/Tests/Top%2010%20hosts%20interacting%20with%20the%20system.PNG)
 ![Top 10 hosts with their top page hits](https://github.com/ramakrishnabollisetty007/Log_parsing/blob/master/Tests/Top%2010%20hosts%20with%20their%20top%20page%20hits.PNG)
 ![Normalised percentages of requests](https://github.com/ramakrishnabollisetty007/Log_parsing/blob/master/Tests/Normalised%20percentages%20of%20requests.PNG)
+![Median value for the Response size](https://github.com/ramakrishnabollisetty007/Log_parsing/blob/master/Tests/Median%20value%20for%20the%20Response%20size%20(in%20bytes).PNG)
 
 
 ## Scope for improvements
