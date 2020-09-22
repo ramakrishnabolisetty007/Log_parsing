@@ -15,7 +15,7 @@ Dependencies : pprint, pprint, IPython
 ## Implementation
 
 - Sample log file data in raw format has been used for analysis.
-- Standard format of the log : dd24-024.compuserve.com - - [03/Aug/1995:18:30:07 -0400] "GET /cgi-bin/imagemap/countdown69?187,293 HTTP/1.0" 302 110
+- Expected format of the log : dd24-024.compuserve.com - - [03/Aug/1995:18:30:07 -0400] "GET /cgi-bin/imagemap/countdown69?187,293 HTTP/1.0" 302 110
 - Converted plain file into CSV using regex.
 - Used random buckets of 65,000 line items are used to test the utility. 
 
